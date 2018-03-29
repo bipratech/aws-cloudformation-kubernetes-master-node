@@ -1,0 +1,5 @@
+Cloudformation template to setup 1 Kubernetes master and a node. The Master currently passes the message to an external SQS queue. 
+
+I will be updating the template to include the queue inside the CF template.
+
+CF template written in YAML
